@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+table,tr,th,td{
+    border: black 1px solid;
+    border-collapse: collapse;
+    border-radius: 50px;
+  }
